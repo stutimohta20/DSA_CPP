@@ -9,3 +9,4 @@ Data Structures and Algorithm in cpp language
 [Merge_sort](Merge_sort.cpp)<br>
 [BST_to_minheap](BST_to_minheap.cpp)<br>
 [Radix_Sort](Radix_Sort.cpp)
+[Print_Subsequences_sum_n](Print_subsequences_sum_n.cpp)
