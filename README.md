@@ -2,11 +2,11 @@
 Data Structures and Algorithm in cpp language
 
 
-[Reversing_a_queue](Reversing_a_queue.cpp)<br>
-[LCA_of_a_binary_tree](LCA_of_Binary_Tree.cpp)<br>
-[Bubble_sort](Bubble_sort.cpp)<br>
-[Insertion_sort](Insertion_sort.cpp)<br>
-[Merge_sort](Merge_sort.cpp)<br>
-[BST_to_minheap](BST_to_minheap.cpp)<br>
-[Radix_Sort](Radix_Sort.cpp)
-[Print_Subsequences_sum_n](Print_subsequences_sum_n.cpp)
+[Reversing a queue](Reversing_a_queue.cpp)<br>
+[LCA of a binary tree](LCA_of_Binary_Tree.cpp)<br>
+[Bubble sort](Bubble_sort.cpp)<br>
+[Insertion sort](Insertion_sort.cpp)<br>
+[Merge sort](Merge_sort.cpp)<br>
+[BST to minheap](BST_to_minheap.cpp)<br>
+[Radix Sort](Radix_Sort.cpp)
+[Print Subsequences whose sum is n](Print_subsequences_sum_n.cpp)
