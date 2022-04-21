@@ -11,4 +11,5 @@ Data Structures and Algorithm in cpp language
 [Radix Sort](Radix_Sort.cpp)<br>
 [Print Subsequences whose sum is n](Print_subsequences_sum_n.cpp)<br>
 [Sum of all subsets of an array](Sum_of_all_subset.cpp)<br>
-[Heap Sort](Heapsort.cpp)
+[Heap Sort](Heapsort.cpp)<br>
+[Prefix to Postfix Stacks](PrefixtoPostfixStacks.cpp)<br>
