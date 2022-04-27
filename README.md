@@ -13,4 +13,5 @@ Data Structures and Algorithm in cpp language
 [Sum of all subsets of an array](Sum_of_all_subset.cpp)<br>
 [Heap Sort](Heapsort.cpp)<br>
 [Prefix to Postfix in Stack](PrefixtoPostfixStacks.cpp)<br>
-[Counting Sort](Counting_sort.cpp)
+[Counting Sort](Counting_sort.cpp)<br>
+[N Queen Problem](NQueen.cpp)<br>
