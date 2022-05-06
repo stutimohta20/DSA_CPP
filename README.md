@@ -16,4 +16,5 @@ Data Structures and Algorithm in cpp language
 [Counting Sort](Counting_sort.cpp)<br>
 [N Queen Problem](NQueen.cpp)<br>
 [Cycle Sort](Cycle_Sort.cpp)<br>
-[Stack using Queue](Stack_using_Queue.cpp)
+[Stack using Queue](Stack_using_Queue.cpp)<br>
+[Queue using Stack](Queue_using_stack.cpp)
