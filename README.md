@@ -19,3 +19,4 @@ Data Structures and Algorithm in cpp language
 [Stack using Queue](Stack_using_Queue.cpp)<br>
 [Queue using Stack](Queue_using_stack.cpp)<br>
 [2 Stacks in an Array](2StacksinArray.cpp)<br>
+[Power of 2](Poweof2.cpp)<br>
