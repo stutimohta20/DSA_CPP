@@ -15,6 +15,7 @@ Data Structures and Algorithm in cpp language
 [Power of 2](Poweof2.cpp)<br>
 [Prefix to Postfix in Stack](PrefixtoPostfixStacks.cpp)<br>
 [Print Subsequences whose sum is n](Print_subsequences_sum_n.cpp)<br>
+[Print all subsets of an array](Printsumofallsubsets.cpp)<br>
 [Queue using Stack](Queue_using_stack.cpp)<br>
 [Revesing a stack using recursion](Reversing_a_stack.cpp)<br>
 [Radix Sort](Radix_Sort.cpp)<br>
