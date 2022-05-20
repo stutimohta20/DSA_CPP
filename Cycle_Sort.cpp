@@ -2,8 +2,8 @@
 
 #include <iostream>
 using namespace std;
-void cycleSort(int arr[], int n)
-{
+void cycleSort(int arr[], int n){
+
 	int writes = 0;
 	for (int cycle_start = 0; cycle_start <= n - 2; cycle_start++) {
 		int item = arr[cycle_start];
