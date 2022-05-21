@@ -22,3 +22,4 @@ Data Structures and Algorithm in cpp language
 [Reversing a queue](Reversing_a_queue.cpp)<br>
 [Stack using Queue](Stack_using_Queue.cpp)<br>
 [Sum of all subsets of an array](Sum_of_all_subset.cpp)<br>
+[Tim Sort](TimSort.cpp)
