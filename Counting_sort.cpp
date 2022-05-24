@@ -1,12 +1,14 @@
 // Counting sort which takes negative numbers as well
 
 
-
+//Header Files
 #include <algorithm>
 #include <iostream>
 #include <vector>
 using namespace std;
 
+
+//Count sort algorithm
 void countSort(vector<int>& arr)
 {
 	int max = *max_element(arr.begin(), arr.end());
@@ -29,6 +31,7 @@ void countSort(vector<int>& arr)
 		arr[i] = output[i];
 }
 
+//Printing the Array
 void printArray(vector<int>& arr)
 {
 	for (int i = 0; i < arr.size(); i++)
@@ -36,6 +39,7 @@ void printArray(vector<int>& arr)
 	cout << "\n";
 }
 
+//Main Function
 int main()
 {
 	vector<int> arr = { -5, -10, 0, -3, 8, 5, -1, 10 };
