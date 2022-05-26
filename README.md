@@ -4,6 +4,7 @@ Data Structures and Algorithm in cpp language
 
 [2 Stacks in an Array](2StacksinArray.cpp)<br>
 [BST to minheap](BST_to_minheap.cpp)<br>
+[BST to minheap](BST_to_minheap.cpp)<br>
 [Bubble sort](Bubble_sort.cpp)<br>
 [Counting Sort](Counting_sort.cpp)<br>
 [Cycle Sort](Cycle_Sort.cpp)<br>
