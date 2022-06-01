@@ -1,10 +1,11 @@
 // C++ program to perform TimSort.
 
-
+//Header Files
 #include<bits/stdc++.h>
 using namespace std;
 const int RUN = 32;
 
+//Insertion sort
 void insertionSort(int arr[], int left, int right)
 {
 	for (int i = left + 1; i <= right; i++)
@@ -19,6 +20,8 @@ void insertionSort(int arr[], int left, int right)
 		arr[j+1] = temp;
 	}
 }
+
+//Merging the array
 void merge(int arr[], int l, int m, int r)
 {
 	
@@ -59,33 +62,35 @@ void merge(int arr[], int l, int m, int r)
 		j++;
 	}
 }
+
+//Tim Sort
 void timSort(int arr[], int n)
 {
 	for (int i = 0; i < n; i+=RUN)
-		insertionSort(arr, i, min((i+RUN-1),
-									(n-1)));
-	for (int size = RUN; size < n;
-							size = 2*size)
+		insertionSort(arr, i, min((i+RUN-1),(n-1)));
+	for (int size = RUN; size < n;size = 2*size)
 	{
 		
-		for (int left = 0; left < n;
-							left += 2*size)
+		for (int left = 0; left < n;left += 2*size)
 		{
 			
 			int mid = left + size - 1;
-			int right = min((left + 2*size - 1),
-											(n-1));
+			int right = min((left + 2*size - 1),(n-1));
 			if(mid < right)
 				merge(arr, left, mid, right);
 		}
 	}
 }
+
+//Printing The Array
 void printArray(int arr[], int n)
 {
 	for (int i = 0; i < n; i++)
 		printf("%d ", arr[i]);
 	printf("\n");
 }
+
+//Main Function
 int main()
 {
 	int arr[] = {-2, 7, 15, -14, 0, 15, 0, 7, -7,
