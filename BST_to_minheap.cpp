@@ -1,7 +1,6 @@
 // BST TO Min Heap
 
 
-//Code
 
 // Header Files
 #include<bits/stdc++.h>
