@@ -1,7 +1,11 @@
 // C++ program to implement cycle sort
 
+
+//Header Files
 #include <iostream>
 using namespace std;
+
+//Cycle sort
 void cycleSort(int arr[], int n){
 
 	int writes = 0;
@@ -45,6 +49,7 @@ void cycleSort(int arr[], int n){
 	}
 }
 
+//Main Function
 int main()
 {
 	int arr[] = { 1, 8, 3, 9, 10, 10, 2, 4 };
