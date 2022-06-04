@@ -11,6 +11,7 @@ Data Structures and Algorithm in cpp language
 [Heap Sort](Heapsort.cpp)<br>
 [Insertion sort](Insertion_sort.cpp)<br>
 [LCA of a binary tree](LCA_of_Binary_Tree.cpp)<br>
+[Lucky String](lucky_string.cpp)
 [Merge sort](Merge_sort.cpp)<br>
 [N Queen Problem](NQueen.cpp)<br>
 [Power of 2](Poweof2.cpp)<br>
