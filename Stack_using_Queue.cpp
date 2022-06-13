@@ -4,6 +4,7 @@ two queue */
 #include <bits/stdc++.h>
 using namespace std;
 
+
 class Stack {
 	queue<int> q1, q2;
 	int curr_size;
