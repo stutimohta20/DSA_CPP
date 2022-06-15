@@ -11,7 +11,8 @@ int getMax(int arr[], int size)
             max = arr[i]; 
     return max; 
 } 
-  
+
+//Counting sort  
 void CountingSort(int arr[], int size, int div) 
 { 
     int output[size]; 
@@ -33,7 +34,7 @@ void CountingSort(int arr[], int size, int div)
         arr[i] = output[i]; 
 } 
   
- 
+ //Radix sort
 void RadixSort(int arr[], int size) 
 { 
     int m = getMax(arr, size); 
@@ -41,7 +42,7 @@ void RadixSort(int arr[], int size)
         CountingSort(arr, size, div); 
 } 
   
-
+//Main Function
 int main() 
 { 
 	int size;
