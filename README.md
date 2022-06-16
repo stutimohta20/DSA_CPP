@@ -22,7 +22,8 @@ Data Structures and Algorithm in cpp language
 [Revesing a stack using recursion](Reversing_a_stack.cpp)<br>
 [Radix Sort](Radix_Sort.cpp)<br>
 [Reversing a queue](Reversing_a_queue.cpp)<br>
-[Sort a Stack](Sort_a_stack)<br>
+[Sort a Stack](Sort_a_stack.cpp)<br>
+[Subset 2](Subset2.cpp)<br>
 [Stack using Queue](Stack_using_Queue.cpp)<br>
 [Sum of all subsets of an array](Sum_of_all_subset.cpp)<br>
 [Tim Sort](TimSort.cpp)<br>
