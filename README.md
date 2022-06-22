@@ -15,7 +15,7 @@ Data Structures and Algorithm in cpp language
 [Merge sort](Merge_sort.cpp)<br>
 [N Queen Problem](NQueen.cpp)<br>
 [Pascal Triangle](PascalTriangle)<br>
-[Power of 2](Poweof2.cpp)<br>
+[Power of 2](Powerof2.cpp)<br>
 [Prefix to Postfix in Stack](PrefixtoPostfixStacks.cpp)<br>
 [Print Subsequences whose sum is n](Print_subsequences_sum_n.cpp)<br>
 [Print all subsets of an array](Printsumofallsubsets.cpp)<br>
