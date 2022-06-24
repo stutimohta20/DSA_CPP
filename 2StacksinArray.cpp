@@ -81,7 +81,7 @@ int main()
 	ts.push2(7);
 	cout << "Popped element from stack1 is "
 		<< ts.pop1();
-	ts.push2(40);
+	ts.push2(30);
 	cout << "\nPopped element from stack2 is "
 		<< ts.pop2();
 	return 0;
