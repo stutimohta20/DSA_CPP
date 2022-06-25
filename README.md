@@ -10,6 +10,7 @@ Data Structures and Algorithm in cpp language
 [Cycle Sort](Cycle_Sort.cpp)<br>
 [Heap Sort](Heapsort.cpp)<br>
 [Insertion sort](Insertion_sort.cpp)<br>
+[Kadane's Algorithm](Kadane's_Algorithm.cpp)
 [LCA of a binary tree](LCA_of_Binary_Tree.cpp)<br>
 [Lucky String](Lucky_String.cpp)<br>
 [Merge sort](Merge_sort.cpp)<br>
