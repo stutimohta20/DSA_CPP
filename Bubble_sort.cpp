@@ -5,7 +5,6 @@
 using namespace std;
 
 
-
 //Swapping the elements.
 void swap(int *x, int *y)
 {
