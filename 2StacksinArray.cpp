@@ -70,7 +70,7 @@ public:
 	}
 };
 
-
+//Main Function
 int main()
 {
 	twoStacks ts(5);
